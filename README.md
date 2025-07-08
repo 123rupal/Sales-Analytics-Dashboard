@@ -10,10 +10,10 @@ The dashboard provides a comprehensive view of sales data with intuitive visuali
 - Identify top-selling products and underperforming areas
 
 ## 📌 Key Features  
-📅 Time-based filtering for flexible trend analysis
-📈 Visual breakdowns by product category, region, and customer segments
-🔍 Drill-down capabilities for deeper data exploration
-✅ Clean, responsive layout for executive presentation
+📅 Time-based filtering for flexible trend analysis  
+📈 Visual breakdowns by product category, region, and customer segments  
+🔍 Drill-down capabilities for deeper data exploration  
+✅ Clean, responsive layout for executive presentation  
 
 ## 🛠️ Tools & Technologies  
 - Power BI Desktop
